@@ -1,6 +1,4 @@
-# pandas-challenge
-
-## Analysis of results
+# Observations of Data
 
 1. The greatest percentage of players fall between the ages of 15 and 29 (combibed total of 76.6%) with the 20-24 age group making up almost 45 percent of total players.
 
